@@ -1,0 +1,13 @@
+/* Webfont: GrotoUIUltra-Regular */@font-face {
+    font-family: 'GrotoUIUltra';
+    src: url('GrotoUIUltra-Regular.eot'); /* IE9 Compat Modes */
+    src: url('GrotoUIUltra-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('GrotoUIUltra-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('GrotoUIUltra-Regular.woff') format('woff'), /* Modern Browsers */
+         url('GrotoUIUltra-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('GrotoUIUltra-Regular.svg#GrotoUIUltra-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
